@@ -1,0 +1,2 @@
+# Ditestpalempari
+test DI Palempari
